@@ -1,0 +1,30 @@
+{
+    "info": {
+		"url_png_icon_64x64":"https://raw.githubusercontent.com/100pcent/help/main/icon.png",
+        "url_png_logo":"https://raw.githubusercontent.com/100pcent/help/main/icon.png",
+        "location": "",
+        "social": {
+            "twitter_handle": "@6u2m4n",
+            "telegram_handle": "",
+            "facebook_handle": "",
+            "youtube_handle": "",
+            "twitch_handle": "",
+            "discord_handle": "",
+            "github_handle": ""
+        },
+        "company": {
+            "name": "Shamrock Pool",
+            "addr": "",
+            "city": "",
+            "country": "Ireland",
+            "company_id": "",
+            "vat_id": ""
+        },
+        "about": {
+            "me": "...",
+            "server": "The Shamrock pool a series of servers distributed across the world aiding in the decentralization of Cardano.",
+            "company": "..."
+        },
+        "rss": ""
+    }
+}
