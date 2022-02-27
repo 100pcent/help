@@ -13,16 +13,16 @@
             "github_handle": ""
         },
         "company": {
-            "name": "Shamrock Pool",
+            "name": "Help Pool",
             "addr": "",
             "city": "",
-            "country": "Ireland",
+            "country": "",
             "company_id": "",
             "vat_id": ""
         },
         "about": {
             "me": "...",
-            "server": "The Shamrock pool a series of servers distributed across the world aiding in the decentralization of Cardano.",
+            "server": "A pool to help the ukranian fund. ",
             "company": "..."
         },
         "rss": ""
